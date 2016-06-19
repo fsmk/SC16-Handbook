@@ -27,16 +27,7 @@ The most updated content can be checked at [SC14-Handbook](https://fsmk.github.i
 
 Topic selection by volunteers:
 
-1. Mahesh Kumar - HTML, CSS, Introduction to Free Software Movement
-
-2. Nitin Srivatsa - Basic command line in Linux, 	circumventing_mass_surveillance, shell scripting
-
-3. Rohit GS - Introduction to JavaScript, NodeJS
-
-4. Harshitha - nodeJs, MongoDB
-
-5. Abhiram - usingUbuntu, jQuery, roadAhead
-
+_to be updated_
 
 The topics are selected in order to ensure that resposibility is divided and work gets done. Everyone else is welcome to contribute to the manual too.
 
