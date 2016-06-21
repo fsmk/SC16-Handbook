@@ -14,7 +14,7 @@
 >##Contents
 
 >1.[Introduction](http://www.w3schools.com/css/css_intro.asp)<br>
-2.[Selectors](http://www.w3schools.com/css/css_selectors.asp)<br>
+2.[Syntax & Selectors](http://www.w3schools.com/css/css_syntax.asp)<br>
 3.[Backgrounds](http://www.w3schools.com/css/css_background.asp)<br>
 4.[Fonts](http://www.w3schools.com/css/css_font.asp)<br>
 5.[Links](http://www.w3schools.com/css/css_link.asp)<br>
