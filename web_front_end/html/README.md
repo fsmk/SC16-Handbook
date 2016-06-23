@@ -36,7 +36,7 @@
 >14.[Blocks](http://www.w3schools.com/html/html_blocks.asp)<br>
 >15.[Layout](http://www.w3schools.com/html/html_layout.asp)<br>
 >16.[Forms](http://www.w3schools.com/html/html_forms.asp)<br>
->17.Colors<br>
+>17.Colors
 > >  1.[HTML Colors](http://www.w3schools.com/html/html_colors.asp)<br>
 > >  2.[Color Names](http://www.w3schools.com/html/html_colornames.asp)
 
