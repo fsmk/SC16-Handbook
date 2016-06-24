@@ -18,7 +18,11 @@
 
 
 >1.[Introduction](http://www.w3schools.com/html/html_intro.asp)<br>
->2.[Editors](http://www.w3schools.com/html/html_editors.asp)<br>
+>2.Editors
+> > 1.[vi/vim](http://www.cs.colostate.edu/helpdocs/vi.html)<br>
+> > 2.[gedit](https://help.gnome.org/users/gedit/stable/)<br>
+> > 3.[nano](http://www.debianadmin.com/nano-editor-tutorials.html)
+
 >3.[Basics](http://www.w3schools.com/html/html_basic.asp)<br>
 >4.[Elements](http://www.w3schools.com/html/html_elements.asp)<br>
 >5.[Attributes](http://www.w3schools.com/html/html_attributes.asp)<br>
@@ -30,10 +34,13 @@
 >11.[Head](http://www.w3schools.com/html/html_head.asp)<br>
 >12.[Images](http://www.w3schools.com/html/html_images.asp)<br>
 >13.[Lists](http://www.w3schools.com/html/html_lists.asp)<br>
->14.[Blocks](http://www.w3schools.com/html/html_blocks.)<br>
+>14.[Blocks](http://www.w3schools.com/html/html_blocks.asp)<br>
 >15.[Layout](http://www.w3schools.com/html/html_layout.asp)<br>
 >16.[Forms](http://www.w3schools.com/html/html_forms.asp)<br>
->17.[Color Names](http://www.w3schools.com/html/html_colornames.asp)<br>
+>17.Colors
+> >  1.[HTML Colors](http://www.w3schools.com/html/html_colors.asp)<br>
+> >  2.[Color Names](http://www.w3schools.com/html/html_colornames.asp)
+
 >18.[HTML5](http://www.w3schools.com/html/html5_intro.asp)<br>
 
 
