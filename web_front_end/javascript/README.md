@@ -7,11 +7,11 @@ This tutorial gives an initial push to start you with Javascript.
 
 JavaScript is: 
 
- JavaScript is a lightweight, interpreted programming language 
- Designed for creating network-centric applications 
- Complementary to and integrated with Java 
- Complementary to and integrated with HTML 
- Open and cross-platform 
+* JavaScript is a lightweight, interpreted programming language 
+* Designed for creating network-centric applications 
+* Complementary to and integrated with Java 
+* Complementary to and integrated with HTML 
+* Open and cross-platform 
 
 A JavaScript consists of JavaScript statements that are placed within the 
 
@@ -41,13 +41,13 @@ Hello World!
 
 <h4>Resourses<h4>
 Books
-[Head first Javascript][2]
+[Head first Javascript][2]<br>
 Videos
-[Lynda videos][3]
+[Lynda videos][3]<br>
 Tutorials
-[Codeacademy][4]
+[Codeacademy][4]<br>
 Reference
-[Tutorials point][5]
+[Tutorials point][5]<br>
   
 
 
