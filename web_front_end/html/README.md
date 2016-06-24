@@ -18,7 +18,11 @@
 
 
 >1.[Introduction](http://www.w3schools.com/html/html_intro.asp)<br>
->2.[Editors](http://www.w3schools.com/html/html_editors.asp)<br>
+>2.Editors
+> > 1.[vi/vim](http://www.cs.colostate.edu/helpdocs/vi.html)<br>
+> > 2.[gedit](https://help.gnome.org/users/gedit/stable/)<br>
+> > 3.[nano](http://www.debianadmin.com/nano-editor-tutorials.html)
+
 >3.[Basics](http://www.w3schools.com/html/html_basic.asp)<br>
 >4.[Elements](http://www.w3schools.com/html/html_elements.asp)<br>
 >5.[Attributes](http://www.w3schools.com/html/html_attributes.asp)<br>

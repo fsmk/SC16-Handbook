@@ -4,9 +4,9 @@
 ----------
  
 ###Contents
-1. [About jQuery][1]
-2. [Pre-requisites][2]
-3. [Setup][3]
+1. [About jQuery & Pre-requisites][1]
+2. [Setup][3]
+3. [Syntax][2]
 4. [Selectors][4]
 5. [Effects][5]
 6. [Custom animation][6]
@@ -62,8 +62,8 @@ And, you're done!
 
 
   [1]: http://www.w3schools.com/jquery/jquery_intro.asp
-  [2]: http://www.w3schools.com/jquery/jquery_intro.asp
-  [3]: http://www.w3schools.com/jquery/jquery_install.asp
+  [3]: http://www.w3schools.com/jquery/jquery_get_started.asp
+  [2]: http://www.w3schools.com/jquery/jquery_syntax.asp
   [4]: http://www.jquery-tutorial.net/selectors/introduction/
   [5]: http://www.w3schools.com/jquery/jquery_hide_show.asp
   [6]: http://www.jquery-tutorial.net/effects/custom-animations-with-the-animate-method/
