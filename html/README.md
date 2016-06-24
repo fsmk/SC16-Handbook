@@ -46,7 +46,7 @@
 
 ---
 
->##Use of HTML
+>##Uses of HTML
 
 ---
 
