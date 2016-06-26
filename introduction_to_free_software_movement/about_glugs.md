@@ -14,7 +14,7 @@ Wikipedia refers to GLUG as a private generally not-for-profit organization that
     * DSCE GLUG
     * JVIT GLUG
     * AIT GLUG
-    * SJBIT GLUG
+    * fssoc (SJBIT GLUG)
     * BNMIT GLUG
 * Mandya Region
     * PES Mandya GLUG
