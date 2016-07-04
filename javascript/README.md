@@ -39,15 +39,25 @@ Above code will display following result:
 Hello World! 
 
 
-<h4>Resourses<h4>
-Books
-[Head first Javascript][2]<br>
-Videos
-[Lynda videos][3]<br>
-Tutorials
-[Codeacademy][4]<br>
-Reference
-[Tutorials point][5]<br>
+<h3>Resources</h3>
+
+<h4>Books</h4>
+> <h5>[Head first Javascript][2]<br>
+
+
+<h4>Videos</h4>
+> <h5>[Lynda videos][3]<br>
+
+
+<h4>Tutorials</h4>
+> <h5>[Codeacademy][4]<br>
+
+
+<h4>Reference</h4>
+> <h5>[Tutorials point][5]<br>
+> A one stop guide for anything related to JavaScript [JS: The Right Way][6]
+
+
   
 
 
@@ -56,3 +66,4 @@ Reference
   [3]: http://www.lynda.com/JavaScript-training-tutorials/244-5.html?sort=7
   [4]: http://www.codecademy.com/en/tracks/javascript
   [5]: http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf
+  [6]: http://www.jstherightway.org
