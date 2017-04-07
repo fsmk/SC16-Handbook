@@ -7,7 +7,7 @@ The most updated content can be checked at [SC16-Handbook](https://abhi12ravi.gi
 
 ## About Summer Camp 16
 
-##Basic Work Flow
+## Basic Work Flow
 
 * Fork the repo set up here 
 * Clone the forked repo on your machine
@@ -15,7 +15,7 @@ The most updated content can be checked at [SC16-Handbook](https://abhi12ravi.gi
 * Push them to your repo on github
 * And then send a Pull Request from your account to the main repo
 
-##MD format guidelines
+## MD format guidelines
 
 * Download and install ReText from here [ReText](http://sourceforge.net/projects/retext/postdownload)
 * Use the preview mode to add and edit text in markdown format
